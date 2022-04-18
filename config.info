@@ -1,0 +1,5 @@
+amanda_exec_path=Path to Amanda executables,7
+amanda_configs_path=Path to Amanda configurations,7
+amanda_user=User amanda runs under,5
+amanda_group=Group amanda runs under,6
+amanda_debug_path=Path to Amanda Debug Temporary Dir,7

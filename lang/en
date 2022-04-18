@@ -1,0 +1,40 @@
+index_title=Amanda
+index_return=index
+index_no_amanda=The Amanda executables were not found in your system. Maybe it is not installed or your <a href='$1'>configuration</a> is not correct. 
+general_config_title=Edit general config (not ready)
+configs_title=Edit / view / create / delete backup configs
+status_check_title=Check backup status
+return_to_index=module index
+return_to_configs=configurations index
+return_to_config_menu=$1 config menu
+no_configs_found=No backup configurations were found in your system. Maybe there is a problem with the configurations path. Check your <a href='$1'>configuration</a>
+config_view_title=Edit / view backup configuration: '$1'
+config_view_subindex_admin=Admin options
+config_view_subindex_cycle=Tape backup cycle
+config_view_subindex_network=Network options
+config_view_subindex_tape=Tape options
+config_view_subindex_holdingdisk=Holding disks properties
+config_view_subindex_dumptype=Dump backup types
+config_view_subindex_disklist=Disk list
+config_view_subindex_tapelist=Tape list
+config_save_title=Saving '$1'
+save=Save
+reset=Reset
+configs_view_configurations_subtitle=Edit / view configurations
+configs_view_configuration=Edit / view $1 configuration
+configs_create_configuration_subtitle=Create new configuration
+configs_create_configuration=Create new configuration
+configs_delete_configurations_subtitle=Delete configurations
+configs_delete_configuration=Delete $1 configuration
+config_create_new_name=New config name
+config_create_from_template=From template
+config_create_from_existing=From existing config
+config_creating_new=Creating new config
+config_creating_new_OK=New backup configuration '$1' created OK
+config_delete=Delete backup configuration ($1)
+config_deleting=Deleting backup configuration ($1)
+config_delete_click=Click this link to delete
+sure=Are you sure?
+
+
+

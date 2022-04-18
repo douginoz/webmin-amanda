@@ -1,0 +1,40 @@
+index_title=Amanda
+index_return=índice
+index_no_amanda=Los ejecutables de Amanda no se encontraron. Quizás no están instalados o la <a href='$1'>configuración</a> no es correcta. 
+general_config_title=Editar configuración general (en preparación)
+configs_title=Editar / ver / crear / borrar configuraciones de backup
+status_check_title=Ver estado de backup
+return_to_index=índice del modulo
+return_to_configs=índice de configuraciones
+return_to_config_menu=menu de configuración de $1
+no_configs_found=No se encontraron configuraciones de backup. Quizá hay un problema con la ruta de configuraciones. Compruebe su <a href='$1'>configuración</a>
+config_view_title=Editar / ver configuración de backup: '$1'
+config_view_subindex_admin=Opciones administrativas
+config_view_subindex_cycle=Ciclo de backup
+config_view_subindex_network=Opciones de red
+config_view_subindex_tape=Opciones de cinta
+config_view_subindex_holdingdisk=Propiedades de discos intermedios 
+config_view_subindex_dumptype=Tipos de backup
+config_view_subindex_disklist=Lista de discos de backup
+config_view_subindex_tapelist=Lista de cintas
+config_save_title=Grabando '$1'
+save=Guardar
+reset=Resetear
+configs_view_configurations_subtitle=Editar / ver configuraciones
+configs_view_configuration=Editar / ver la configuración $1
+configs_create_configuration_subtitle=Crear nueva configuración
+configs_create_configuration=Crear nueva configuración
+configs_delete_configurations_subtitle=Borrar configuraciones
+configs_delete_configuration=Borrar la configuración $1
+config_create_new_name=Nombre de la nueva configuración
+config_create_from_template=De plantilla
+config_create_from_existing=De una existente
+config_creating_new=Creando nueva configuración
+config_creating_new_OK=Nueva configuración '$1' creada OK
+config_delete=Borrar configuración de backup ($1)
+config_deleting=Borrando configuración de backup ($1)
+config_delete_click=Pincha aquí para borrar
+sure=¿Estás seguro?
+
+
+

@@ -1,0 +1,5 @@
+amanda_exec_path=/usr/sbin
+amanda_user=backup
+amanda_configs_path=/etc/amanda
+amanda_group=disk
+amanda_debug_path=/tmp/amanda
