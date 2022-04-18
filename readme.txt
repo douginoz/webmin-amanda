@@ -1,5 +1,11 @@
 WEBMIN module for Amanda readme file and release notes:
 
+This is a modified version of webmin-amanda by Luis Lloret from 2005-03-02 (http://webmin-amanda.sourceforge.net/)
+The original version is only available via sourceforge and I haven't found the author
+
+This current version works under Ubuntu 20+ by modifying the system("su $amanda_user") execution to "sudo -u $amanda_user")
+
+
 Some notes about the actual status:
 	- Please, consider this as an alpha release. So BACKUP your existing Amanda configuration files before going on.
 	- Code can (and probably must) be improved, as this is my first PERL project. 
